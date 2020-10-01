@@ -1,4 +1,4 @@
-blof
+blog
 ====
 
 Microblogging app that adds grammar errors to articles.
